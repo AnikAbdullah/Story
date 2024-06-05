@@ -1,0 +1,10 @@
+Create new folder --> mkdir folderName
+Opne that repository --> cd path
+Check available files --> ls
+Create new file --> touch fileName
+Open file --> code fileName (-a --> for all files)
+
+---------------------------------------------------
+Create git repository --> git init
+Staging area --> git status[Red - untraced files]
+Add to staging area --> git add chapter1.txt
