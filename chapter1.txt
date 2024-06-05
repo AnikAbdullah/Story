@@ -6,12 +6,15 @@ Open file --> code fileName (-a --> for all files)
 
 ---------------------------------------------------
 Create git repository --> git init
-Staging area --> git status
+Staging area [Modification on fileNo]--> git status
              -->[Red - untraced files]
              -->[Green - added to staging area]
 Add to staging area --> git add chapter1.txt
 ---------------------------------------------------
 Commit message --> git commit -m "Type any message"
-Check changes --> git log
+Check changes time and author --> git log
 ----------------------------------------------------
 Add all files to staging area --> git add .
+----------------------------------------------------
+Check differences --> git diff fileName
+Rollback to previous version --> git checkout fileName
