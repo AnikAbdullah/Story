@@ -18,3 +18,8 @@ Add all files to staging area --> git add .
 ----------------------------------------------------
 Check differences --> git diff fileName
 Rollback to previous version --> git checkout fileName
+----------------------------------------------------
+Online github repository-->
+git remote add origin[--> File Name] paste link
+Push local repository to github -->
+git push -u origin main
