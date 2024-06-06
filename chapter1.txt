@@ -23,3 +23,7 @@ Online github repository-->
 git remote add origin[--> File Name] paste link
 Push local repository to github -->
 git push -u origin main
+---------------------------------------------------
+git branch --> git branch alien-plot
+--> git branch
+change the branch --> git checkout 'alien-plot'
